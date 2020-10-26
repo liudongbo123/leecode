@@ -1,5 +1,9 @@
 package InJava;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.regex.Pattern;
+
 /**
  * @author liudongbo05 <liudongbo05@kuaishou.com>
  * Created on 2020-10-19
@@ -17,7 +21,5 @@ public class Q11 {
 		return out;
 	}
 
-	public  static void main(String []args){
 
-	}
 }
